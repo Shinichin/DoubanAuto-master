@@ -1,0 +1,2 @@
+[2020-10-23 10:26:21] [ERROR] in func get_value_from_group_url(), url=https://www.douban.com/group/704882/;
+[2020-10-23 10:27:16] [WARNING] https://www.douban.com/group/704882/, status_code: 418
